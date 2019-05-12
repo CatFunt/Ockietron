@@ -135,4 +135,6 @@ if (message.content.startsWith ("=compute:")) {
 }
 });
 
+client.login('NTc2NTY0MTU1NzEzMDYwODY0.XNbEtQ.0QyVBuXiseDuofhz4BPOGsRSKVI');
+
 client.run(str(os.environ.get('NTc2NTY0MTU1NzEzMDYwODY0.XNbEtQ.0QyVBuXiseDuofhz4BPOGsRSKVI')))
