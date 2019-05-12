@@ -1,3 +1,12 @@
+import discord
+from discord.ext import commands
+from discord.ext.commands import Bot
+import asyncio
+import random
+import requests
+import os
+
+
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
