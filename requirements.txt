@@ -1,5 +1,5 @@
 discord
 asynico
-Pyome
+Pymoe
 youtube_dl
 pip
